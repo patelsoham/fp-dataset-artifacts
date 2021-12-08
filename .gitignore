@@ -1,2 +1,4 @@
 *.pyc
 output/
+/Misc/Resources/*
+/training_eval_results/*
